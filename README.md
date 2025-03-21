@@ -1,4 +1,4 @@
-# Primera-tienda-bazar-
+# Primera-tienda-bazar
 El proyecto incluye una lista de productos presentados en una cuadrícula estilizada, con imágenes, nombres, descripciones y botones de acción que permiten interactuar con los artículos. Además, incorpora funcionalidades básicas de JavaScript para la interacción dinámica con los elementos de la página.
 
 Funcionalidades
